@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.sonar/
+.scannerwork/
+sonar-token.txt
+*.log
